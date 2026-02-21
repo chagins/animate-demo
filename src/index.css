@@ -1,0 +1,9 @@
+.box {
+  width: 200px;
+  height: 100px;
+  background: yellow;
+}
+
+.box:last-child {
+  background: green;
+}
